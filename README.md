@@ -1,1 +1,1 @@
-# DarkMiner-offical-code
+# DarkMiner-official-code
